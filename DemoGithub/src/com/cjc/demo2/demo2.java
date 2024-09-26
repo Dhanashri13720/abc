@@ -14,9 +14,9 @@ public void m3()
 	{
 		System.out.println("m4");
 	}
-	public void m5()
+	public void m6()
 	{
-				System.out.println("m5");
+				System.out.println("m6");
 
 	}
 }
